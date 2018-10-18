@@ -1,9 +1,6 @@
 import requests
 import math
 
-def WeaponIDtoName(weaponID):
-	
-	
 def result(string):
 	splited=string.split()
 	num=len(splited)-1
